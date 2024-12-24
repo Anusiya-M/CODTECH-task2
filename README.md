@@ -15,7 +15,7 @@ Personal Portfolio Website Project
 Project Overview:
 
 The Personal Portfolio Website project is a web development project that aims to create a personal portfolio website to showcase an individual's projects, skills, and experience. The website should be visually appealing, easy to navigate, and provide a clear overview of the individual's work.
-
+![Screenshot (310)](https://github.com/user-attachments/assets/f5f8219a-d7ae-4e22-8789-7ff440068ab7)
 
 Project Objectives:
 
