@@ -1,0 +1,387 @@
+/*The main HTML file for the website.Develop a navigation menu that allows users to easily access different sections of the website */
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portfolio</title>
+    <link rel="stylesheet" href="anu.css">
+</head>
+<body>
+    <header>
+        <h1>anusiya m</h1>
+        <nav>
+            <ul>
+               <li><a href="">Home</a></li>
+               <li><a href="about.html">About</a></li>
+               <li><a href="edu.html">Education</a></li>
+               <li><a href="pro.html">projects</a></li>
+               <li><a href="cont.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="home">
+            <div class="content">
+                <h1>Welcome to My Portfolio website!.</h1>
+                <p>I'm a efficient software developer and web developer with a passion for building responsive and user-friendly websites.</p>
+                <button>Learn more....</button>
+            </div>
+            <div class="img">
+                <img src="image.jpeg" alt="profile.image">
+            </div>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 portfoliowebsite</p>
+    </footer>
+</body>
+</html>
+
+/* The About section overview of ourself and skills known*/
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portfolio</title>
+    <link rel="stylesheet" href="anu.css">
+</head>
+<body>
+    <header>
+        <h1>anusiya m</h1>
+        <nav>
+            <ul>
+               <li><a href="anu.html">Home</a></li>
+               <li><a href="">About</a></li>
+               <li><a href="">Education</a></li>
+               <li><a href="">projects</a></li>
+               <li><a href="">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="about">
+            <h1>About Me</h1>
+            <p>highly motivated and detail-oriented MCA graduate with a strong passion for software development and technology.proficient in programming languages such as java,python and web-development languages like Html ,css, and javascript.seeking a challenging role in software development where I can apply my skills and knowledge to drive innovation and growth.</p>
+            <dl>
+                <dt>programming languages</dt>
+                <dd>java</dd>
+                <dd>python</dd>
+                <dt>web-development languages</dt>
+                <dd>html</dd>
+                <dd>css</dd>
+                <dd>javascript</dd>
+                <dt>version control</dt>
+                <dd>git, github</dd>
+            </dl>
+            <a href="">More...</a>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 portfoliowebsite</p>
+    </footer>
+</body>
+</html>
+
+/*Education section details about education finished */
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portfolio</title>
+    <link rel="stylesheet" href="anu.css">
+</head>
+<body>
+    <header>
+        <h1>anusiya m</h1>
+        <nav>
+            <ul>
+               <li><a href="anu.html">Home</a></li>
+               <li><a href="">About</a></li>
+               <li><a href="">Education</a></li>
+               <li><a href="">projects</a></li>
+               <li><a href="">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="education">
+            <h1>Education details</h1>
+            <h2>MCA-master of computer applications</h2>
+            <ul>
+                <li>madurai kamaraj university</li>
+                <li>sri meenakshi government arts college for women(a),madurai-02</li>
+                <li>2022-2024</li>
+                <li>percentage: 78%</li>
+            </ul>
+            <h2>BCA-bachelor of computer applications</h2>
+            <ul>
+                <li>madurai kamaraj university</li>
+                <li>sri meenakshi government arts college for women(a),madurai-02</li>
+                <li>2019-2022</li>
+                <li>percentage: 80%</li>
+            </ul>
+            <a href="">More</a>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 portfoliowebsite</p>
+    </footer>
+</body>
+</html>
+
+/* Project section you have done projects and explain these project and benifits*/
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portfolio</title>
+    <link rel="stylesheet" href="anu.css">
+</head>
+<body>
+    <header>
+        <h1>anusiya m</h1>
+        <nav>
+            <ul>
+               <li><a href="anu.html">Home</a></li>
+               <li><a href="">About</a></li>
+               <li><a href="">Education</a></li>
+               <li><a href="">projects</a></li>
+               <li><a href="">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="project">
+            <h1>projects</h1>
+            <h2>1-facial emotion recognition using python</h2>
+            <p>its aims to provide accurate insights into human "emotions and behavior".<br>technology: python, machine learning algorithms.</p>
+            <a href="">more...</a>
+            <img src="" alt="">
+            <h2>2-brain tumor detection</h2>
+            <p>it aims to support medical professionals in diagnosing brain tumors more "accurately and quickly".<br>technology: python,html,css</p>
+            <a href="">more...</a>
+            <img src="" alt="">
+        </section>
+
+    </main>
+    <footer>
+        <p>&copy; 2024 portfoliowebsite</p>
+    </footer>
+</body>
+</html>
+
+/* contacts */
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>portfolio</title>
+    <link rel="stylesheet" href="anu.css">
+</head>
+<body>
+    <header>
+        <h1>anusiya m</h1>
+        <nav>
+            <ul>
+               <li><a href="anu.html">Home</a></li>
+               <li><a href="">About</a></li>
+               <li><a href="">Education</a></li>
+               <li><a href="">projects</a></li>
+               <li><a href="">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section id="contact">
+            <h1>get in touch</h1>
+            <p>if you have any questions or would like to discuss a project , please don't hesitate to contact me.</p>
+            <form action="">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name"><br><br>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email"><br><br>
+                <label for="message">Message:</label>
+                <textarea name="message" id="message"></textarea><br><br>
+                <input type="submit" value="send">
+            </form>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 portfoliowebsite</p>
+    </footer>
+</body>
+</html> 
+
+/*The CSS file for styling the website background colors and images and text edits */
+
+body{
+    background-image: url(img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: none;
+    background-attachment: fixed;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    padding: 1rem;
+    align-items: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+header h1{
+    font-size: 4.5rem;
+    text-transform: uppercase;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header nav ul{
+    list-style: none;
+    display: flex;
+    padding: 0;
+    margin: 0;
+}
+header nav ul li{
+    margin-right: 20px;
+    font-size: 1.5rem;
+}
+header nav a{
+    text-decoration: none;
+    color: #fff;
+}
+header nav a:hover{
+    color:red;
+}
+main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+section{
+    color: #fff;
+    padding: 50px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+    border-radius: 20px;
+}
+#home{
+    display: flex;
+    justify-content: space-between;
+}
+#home img{
+    width: 200px;
+    align-items: end; 
+    border-radius: 300px;
+}
+.content h1{
+    margin-bottom: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color: aquamarine;
+}
+.content p{
+    text-transform: capitalize;
+    margin-bottom: 50px;
+    font-size: 20px;
+}
+#about h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 40px;
+    font-weight: bold;
+    text-transform: uppercase;
+    color: aquamarine;
+}
+#about p{
+    margin-bottom: 30px;
+    font-size: 20px;
+    text-transform: capitalize;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+dl{
+    border-radius: 10px;
+    background-color: #2c2eb6;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.8);
+    font-size: 20px;
+    margin: 20px;
+    padding: 50px;
+    width: fit-content;
+    align-items: center;
+}
+dl dt{
+    color: aquamarine;
+}
+dd{
+    text-decoration: none;
+}
+dd:hover{
+    color: bisque;
+    cursor: pointer;
+}
+#education h1{
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: aquamarine;
+    text-transform: uppercase;
+    text-align: center;
+}
+#education h2{
+    text-transform: capitalize;
+    text-decoration: underline;
+}
+#education h2:hover{
+    color: red;
+}
+#project{
+    text-transform: capitalize;
+}
+ul{
+    margin: 0;
+    text-transform: capitalize;
+}
+li{
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+a:hover{
+    color: #81b6e4;
+}
+button{
+    background-color: #337ab7;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: #23527c;
+}
+footer{
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    clear: both;
+}
+footer p{
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+
+/**/
+
